@@ -1,0 +1,5 @@
+h2 springboot
+webtest
+ben validation
+spring docs
+Hibernate
